@@ -6,9 +6,6 @@ public class A {
 	{
 		System.out.println("Smita pawar");
 	}
-	public void m1()
-	{
-		System.out.println("Jenkien");
-	}
+	
 
 }
