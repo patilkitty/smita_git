@@ -10,5 +10,5 @@ public class A {
 	{
 		System.out.println("Jenkien");
 	}
-
+public void m2()
 }
